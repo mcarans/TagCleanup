@@ -69,7 +69,7 @@ def main():
             if '*' in tag:
                 wildcard_tags.append(tag)
 
-        for dataset in Dataset.get_all_datasets():
+        for dataset in Dataset.get_all_datasets(check_duplicates=False):
             changed = False
 
             for tag in dataset.get_tags():
@@ -93,4 +93,4 @@ def main():
 
 
 if __name__ == '__main__':
-    facade(main, hdx_site='prod', user_agent_config_yaml=join(expanduser('~'), '.tagcleanupuseragent.yml'), project_config_yaml=join('config', 'project_configuration.yml'))
+    facade(main, hdx_site='demo', user_agent_config_yaml=join(expanduser('~'), '.tagcleanupuseragent.yml'), project_config_yaml=join('config', 'project_configuration.yml'))
