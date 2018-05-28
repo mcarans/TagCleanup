@@ -2,6 +2,7 @@ import logging
 import fnmatch
 from os.path import join, expanduser
 
+from hdx.data.hdxobject import HDXError
 from hdx.utilities.downloader import Download
 from hdx.data.dataset import Dataset
 from hdx.hdx_configuration import Configuration
@@ -83,7 +84,10 @@ def main():
             if changed:
                 if dataset.get_tags():
                     if real_run:
-                        dataset.update_in_hdx(update_resources=False, hxl_update=False)
+                        try:
+                            dataset.update_in_hdx(update_resources=False, hxl_update=False)
+                        except HDXError as ex:
+                            logger.exception(ex)
                 else:
                     if dataset['private']:
                         privatepublic = 'private'
