@@ -1,802 +1,576 @@
-WARNING - 2018-05-25 14:43:48 - __main__ - reliefweb-crisis-app-data (public) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - cerf-topline-figures (public) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-porcentaje-de-poblacion-con-discapacidad-2013 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-migrantes-repatriados-y-retornados-2016 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-porcentaje-de-poblacion-con-necesidades-basicas-insatisfechas-2009 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-proporcion-de-participacion-femenina-en-relacion-a-hombre-en-pea-ocupada-2013 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-porcentaje-de-poblacion-urbana-en-asentamiento-precarios-2012 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-porcentaje-de-poblacion-urbana-en-asentamiento-precarios-2012 - Anglicising: vivienda -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-tasa-de-dependencia-por-edades-2013 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-poblacion-economicamente-activa-que-esta-desocupada-e-inactiva-2013 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-coeficiente-de-gini-2003 (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-indice-de-desarrollo-humano-2009 (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-tasa-de-homicidios-por-cada-100-000-personas-2017 - Anglicising: homicidios -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-homicidios-registrado-en-el-municipio-2017 - Anglicising: homicidios -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-poblacion-media-anual-expuesta-a-sequia-2000-2015 - Anglicising: población -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-poblacion-expuesta-a-deslizamientos-2012 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-poblacion-media-anual-expuesta-a-inundaciones-1995-2015 (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - honduras-poblacion-media-anual-expuesta-a-terremotos-2012 - Anglicising: desastres -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - proyecciones-de-poblacion-por-area-y-sexo-segun-departamento-y-municipio - Anglicising: censo -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - proyecciones-de-poblacion-por-area-y-sexo-segun-departamento-y-municipio - Anglicising: población -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - proyecciones-de-poblacion-por-area-y-sexo-segun-departamento-y-municipio - Anglicising: proyección -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - limites-de-peru - Anglicising: geonada -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - limites-de-peru - Anglicising: limites -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - limites-de-peru - Anglicising: provincia -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - division-politica-de-honduras - Anglicising: extensión -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - division-politica-de-honduras - Anglicising: municipios -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - centros-poblados-2012 - Anglicising: centro poblado -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - centros-poblados-2012 - Anglicising: limites administrativos -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - centros-poblados-2012 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: censo -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: extranjero -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: hombres -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: masculinidad -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: mujeres -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: vivienda -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - rd-congo-donnees-epidemiologiques - Anglicising: epidémiologie -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - rd-congo-donnees-epidemiologiques - Anglicising: maladies -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - reporte-estadistico-mensual-de-extorsiones-en-colombia-2010-2016 - Anglicising: extorsion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - reporte-estadistico-municipal-mensual-de-secuestros-en-colombia-2010-2016 - Anglicising: secuestro -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - https-datos-umaic-org-dataset-reporte-estadistico-de-desapariciones-homicidios-violencia-y-suicidios - Anglicising: homicidios -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - ocha-afghanistan-topline-figures (public) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_mobile_money_agents (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_education_facilities (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_market_centres (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_shops (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_wash_facilities (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_offices (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_places_of_worship (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_centres_and_stations (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_villages (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_financial_services (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_fuel_stations (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_health_facilities (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - hotosm_uganda_refugee_crisis_refugee_camps (private) has no tags!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-brecha-de-pobreza-2011 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-brecha-de-pobreza-2011 - Anglicising: pobreza -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - tabla-de-desastres-geodinamicos-y-geofisicos-e-hidrometeorologicos-ocurridos-desde-1530-al-ano-2015 - Anglicising: desastres -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-tasa-de-dependencia-general - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-pobreza-rural-2009 - Anglicising: pobreza -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-condiciones-de-vida-vivienda-2013 - Anglicising: vivienda -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-poblacion-indigena-2012 - Anglicising: indigenas -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-poblacion-indigena-2012 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-poblacion-indigena-2012 - Anglicising: vulnerabilidad -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-incidencia-en-peso-para-talla-en-menores-de-5-anos-por-desastres-naturales-2015 - Anglicising: desastres naturales -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-incidencia-en-peso-para-talla-en-menores-de-5-anos-por-desastres-naturales-2015 - Anglicising: niñez -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-personas-afectadas-por-amenazas-naturales-2015 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-indice-de-avance-educativo-2010 - Anglicising: niñez -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-enfermedades-recurrentes-en-la-poblacion-2015 - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-capacidad-institucional-para-la-reduccion-de-riesgos-a-desastres-2016 - Anglicising: desastres -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-cantidad-de-medicos-por-cada-1-000-habitantes-2016 - Anglicising: salud -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-acceso-a-la-mejora-del-agua-potable-2013 - Anglicising: agua -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-cobertura-de-vacunacion-contra-el-sarampion-u-otros-2015 - Anglicising: niñez -> nothing!
-WARNING - 2018-05-25 14:43:48 - __main__ - guatemala-densidad-de-carreteras-2013 (public) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - unosat-topline-figures (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - unhcr-topline-figures (public) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - somalia-ngo-consortium-topline-figures (public) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - wfp-topline-figures (public) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - ukraine-administrative-boundaries-as-of-q2-2017 - Anglicising: raion -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - incidentes-2008-2017 - Anglicising: desastres -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - incidentes-2008-2017 - Anglicising: emergencia -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - incidentes-2008-2017 - Anglicising: emergencias -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - incidentes-2008-2017 - Anglicising: incidentes -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - incidentes-2008-2017 - Anglicising: lluvias -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - citizen-feedback-in-the-earthquake-affected-areas (public) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - mexico-albergues-temporales-en-nayarit - Anglicising: refugio -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - mexico-albergues-en-jalisco - Anglicising: refugio -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - mexico-albergues-en-colima - Anglicising: refugio -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - laderas - Anglicising: laderas -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - mexico-presas - Anglicising: presas -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - recap-estimation-de-population-analyse-ch-mars-2016-des-9-pays-sahel - Anglicising: cadre harmonisé -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - yemen-json (public) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - admin-boundaries-villages-libya-cods - Anglicising: baladiya -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - chad-gis-geodatabase - Anglicising: cadre harmonisé -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-water-body-limits-centroids-2017mar30 (public) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - estadisticas-de-flujos-migratorios-en-la-frontera-colombo-venezolana - Anglicising: estadisticas -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - insecurite-alimentaire-cadre-harmonise-food-insecurity-harmonized-framework - Anglicising: cadre harmonisé -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - restricciones-de-acceso - Anglicising: acceso -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - restricciones-de-acceso - Anglicising: restricciones de acceso -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - restricciones-de-acceso - Anglicising: tendencias humanitarias -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tasa-de-homicidios - Anglicising: tendencias humanitarias -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - antique-map-of-district-peshawar-peshawar-walled-city-map (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - sidih-humanitarian-needs-overview - Anglicising: indicadores humanitarios -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - sidih-humanitarian-needs-overview - Anglicising: necesidades -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - libya-admin-level-3 - Anglicising: baladiya -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz - Anglicising: acciones belicas -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz - Anglicising: extorcion -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz - Anglicising: homicidios -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz - Anglicising: minas -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz - Anglicising: restricciones acceso -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz - Anglicising: secuestros -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz - Anglicising: tendencias humanitarias -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - region-de-desarrollo-01-honduras - Anglicising: centros de salud -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - region-de-desarrollo-01-honduras - Anglicising: municipios -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - region-de-desarrollo-01-honduras - Anglicising: población -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - region-de-desarrollo-01-honduras - Anglicising: proyección -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - violencia-aramada-de-moritor - Anglicising: acciones belicas -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - violencia-aramada-de-moritor - Anglicising: explosivos -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - violencia-aramada-de-moritor - Anglicising: homicidio -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - violencia-aramada-de-moritor - Anglicising: hostigamiento -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - violencia-aramada-de-moritor - Anglicising: restriccion al acceso -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - violencia-aramada-de-moritor - Anglicising: secuestro -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - colombia-admin-level-4-boundaries - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - colombia-admin-level-4-boundaries - Anglicising: proyecciones poblacionales -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - region-de-desarrollo-02-honduras - Anglicising: municipios -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - region-de-desarrollo-03-honduras - Anglicising: municipios -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - discapacidad - Anglicising: estrato -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - discapacidad - Anglicising: etnia -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - discapacidad - Anglicising: municipios -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - discapacidad - Anglicising: personas discapacitadas -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - discapacidad - Anglicising: salud -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - censo-de-poblacion-guatemala - Anglicising: censo -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - censo-de-poblacion-guatemala - Anglicising: población -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - censo-de-poblacion-guatemala - Anglicising: proyección -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - kenya-number-of-road-fatalities-in-kenya (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - dato-de-fichas-zonas-veredales-de-transicion - Anglicising: guerra -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - kenya-other-0-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - base-data-for-typhoon-nina (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - base-de-datos-infograma-primer-semestre-del-2016 - Anglicising: desastres naturales -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - base-de-datos-infograma-primer-semestre-del-2016 - Anglicising: homicidios -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - base-de-datos-infograma-primer-semestre-del-2016 - Anglicising: infograma -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - base-de-datos-infograma-primer-semestre-del-2016 - Anglicising: minas -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - african-port-statistics-2013 - Anglicising: pmaesa -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-female-contraceptive-prevalence-rate-percentage-of-of-15-49-year-old-females (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-maternal-mortality-number-of-deaths (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - city-product-per-capita (public) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-infant-mortality-rate-deaths-per-1-000-live-births (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-adolescent-fertility-rate-live-births-per-1-000-women-aged-15-19 (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-fertility-rate-live-births-per-woman (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-crude-death-rate-per-1-000-population (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-crude-birth-rate-per-1-000-population (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-old-age-support-ratio (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-elderly-population-percentage-of-population (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-child-sex-ratio-boys-per-100-girls (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - world-population-sex-ratio-males-per-100-females (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - malawi-merged (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - pobreza-en-venezuela - Anglicising: pobreza -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - pre-disaster-indicators-ocha-2010 (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - english-arabic-glossary-of-humanitarian-terms (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - resultados-plebiscito-por-la-paz-en-colombia - Anglicising: plebiscito -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - 160523-ocha-4w-round-2 - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - ecuador-earthquake-5w-round-11 - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - ecuador-earthquake-5w-round-10 - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - ecuador-earthquake-5w-round-9 - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - ecuador-earthquake-5w-round-8 - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - ecuador-earthquake-5w-round-7 - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - salgar-colombia - Anglicising: antioquia -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - confinamiento - Anglicising: restricciones -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz-dic-2015 - Anglicising: acceso -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz-dic-2015 - Anglicising: acciones belicas -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz-dic-2015 - Anglicising: homicidios -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz-dic-2015 - Anglicising: proteccion a la niñez -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - tendencias-humanitarias-y-paz-dic-2015 - Anglicising: secuestros -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - subsidiariedad-uariv15 - Anglicising: focalizacion -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - subsidiariedad-uariv15 - Anglicising: victimas -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - pasos-de-frontera-colombia-venezuela - Anglicising: frontera -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - afg_rw_indicators (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - ecuador-earthquake-5w-round-6 - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - ecuador-earthquake-5w-round-5 - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - eradicate-extreme-poverty-and-hunger-eradiquer-la-pauvrete-ewtreme-et-la-faim (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - ecuador-earthquake-5w-round-4 - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - indice-de-riesgo-de-calidad - Anglicising: agua -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - datos-infograma-2015 - Anglicising: artefactos explosivos -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - datos-infograma-2015 - Anglicising: desastres naturales -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - datos-infograma-2015 - Anglicising: tasa de homicidios -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - datos-infogramas-i-semestre-2015 - Anglicising: artefactos explosivos -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - datos-infogramas-i-semestre-2015 - Anglicising: desastres naturales -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - datos-infogramas-i-semestre-2015 - Anglicising: tasa de homicidios -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - ecuador-earthquake-4w-round-3 - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - indice-territorial-para-la-construccion-de-datos - Anglicising: homicidios -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - indice-territorial-para-la-construccion-de-datos - Anglicising: secuestros -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - ecuador-earthquake-3w - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - list-of-ecuador-schools - Anglicising: terremoto -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - retornos-y-reubicaciones - Anglicising: retornos -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - retornos-y-reubicaciones - Anglicising: reubicaciones -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - retornos-y-reubicaciones - Anglicising: victimas -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - acciones-en-la-respuesta-de-la-crisis-de-la-frontera-colombo-venezolana - Anglicising: finanaciacion -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - acciones-en-la-respuesta-de-la-crisis-de-la-frontera-colombo-venezolana - Anglicising: respuesta -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - lecciones-aprendidas-de-la-respuesta-a-inundaciones-en-loreto-en-2012 (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - la-guajira-colombia - Anglicising: la guajira -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - cameroon-population - Anglicising: lac chad -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - nigeria-population - Anglicising: lac chad -> nothing!
-WARNING - 2018-05-25 14:43:49 - __main__ - lake-chad-basin-crisis-topline-figures (private) has no tags!
-WARNING - 2018-05-25 14:43:49 - __main__ - fiji-pcodes (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - turkey-other-0-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - indicadores-del-sidih - Anglicising: salud -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - jowhar-district-conflict-and-security-assessment-2015 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - sheikh-district-conflict-and-security-assessment-2015 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - citizen-feedback-in-the-earthquake-affected-areas-second-round (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - jordan-other-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - jordan-other-0-0-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - jordan-other-0-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - iraq-other (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - health-centers-data-base - Anglicising: centres de santé -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - health-centers-data-base - Anglicising: ministère de la santé -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - health-centers-data-base - Anglicising: santé -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - syrian-arab-republic-other-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - syrian-arab-republic-other-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - syrian-arab-republic-other-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - syrian-arab-republic-other-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - 2012-census-tanzania-wards-shapefiles (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - huracan-patricia-landed-area - Anglicising: hermosillo -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - mexico-censo-de-escuelas-maestros-y-alumnos-de-educacion-basica-y-especial - Anglicising: alumnos -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - mexico-censo-de-escuelas-maestros-y-alumnos-de-educacion-basica-y-especial - Anglicising: escuelas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - mexico-censo-de-escuelas-maestros-y-alumnos-de-educacion-basica-y-especial - Anglicising: maestros -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - capas-mapa-mexico - Anglicising: capas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - disaster-data-from-1971-1990 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - disaster-data-from-1991-2010 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - new-and-supplemental-projects-of-world-bank-in-nepal (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mdg-goals-progress-2010-2013-and-target-2015 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - deaths-caused-by-disaster-2011-2012 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - estimated-loss-during-disaster-in-2012-and-2013 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - total-number-of-registered-vehicle-2013 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - road-traffic-accident-records-2013 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - causes-of-road-accidents-2013 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - number-of-vehicle-registration-in-bagmati-zone-2000-2014 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - earthquake-by-epicentre-and-magnitude-2008-2012 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - total-strategic-road-network-srn-length-influenced-population-of-district-in-nepal-2011 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - human-casualties-due-to-major-disasters-in-nepal-1983-2013 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - number-of-hospitals-in-nepal-2013 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - number-of-hospital-bed-capacity-in-development-region-2013 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - strikes-done-by-action-initiators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - number-of-crimes-2068-71-b-s (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - development-program-and-budget-allocation-in-the-district-fy-207071 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - causalities-caused-by-earthquake-2015 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - financial-aid-data-for-earthquake-as-of-june-92015 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - magnitude-of-earthquake-and-its-aftershock-as-of-june-2-2015 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - allocation-of-relief-material-in-earthquake-affected-districts (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - disbursement-of-relief-material-in-earthquake-affected-districts (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - niger-other (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - malawi-other (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - dpr-korea-other (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bangladesh-other-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mauritania-other-0-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mauritania-other-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mauritania-other (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - uganda-other-0-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - uganda-other-0 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - djibouti-other (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - indice-de-precios-al-consumidor-inpc - Anglicising: indice de precios al consumidor -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - indice-de-precios-al-consumidor-inpc - Anglicising: inflación -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - transporte-y-comunicaciones-de-peru - Anglicising: comunicacion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - transporte-y-comunicaciones-de-peru - Anglicising: muelle -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - toponimia-de-peru - Anglicising: cerro -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - toponimia-de-peru - Anglicising: cordillera -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - toponimia-de-peru - Anglicising: nevado -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - toponimia-de-peru - Anglicising: volcan -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - industria-de-peru - Anglicising: gasoductos -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - industria-de-peru - Anglicising: industria -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - industria-de-peru - Anglicising: minas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - industria-de-peru - Anglicising: oleoductos -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - aspectos-culturales-de-peru - Anglicising: provincia -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - aspectos-culturales-de-peru - Anglicising: restos arqueologicos -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - fisiografia-de-peru - Anglicising: fisiografia -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - fisiografia-de-peru - Anglicising: geodesica -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - fisiografia-de-peru - Anglicising: nivel -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - economia-de-venezuela - Anglicising: inflación -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - economia-de-venezuela - Anglicising: precio barril -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - empleo-y-ocupacion-en-venezuela - Anglicising: empleo -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - educacion-y-nivel-de-vida-en-venezuela - Anglicising: inversión pública -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - educacion-y-nivel-de-vida-en-venezuela - Anglicising: nivel de vida -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - hidrografia-de-peru - Anglicising: agua -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - hidrografia-de-peru - Anglicising: lagunas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - hidrografia-de-peru - Anglicising: quebradas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - hidrografia-de-peru - Anglicising: rios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - proyeccion-de-poblacion-por-distrito-y-edad-de-peru - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - proyeccion-de-poblacion-por-distrito-y-edad-de-peru - Anglicising: proyeccion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - urbaninfo-indicators-2011 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - viviendas-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - viviendas-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: vivienda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - vegetacion-riberena-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: arroyo -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - vegetacion-riberena-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - vegetacion-riberena-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: vegetacion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - senderos-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - senderos-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: senderos -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - puntos-de-agua-colectivos-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - energia-electrica-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - energia-electrica-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: energia -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - limite-geografico-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - limite-geografico-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: limites -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - cuerpos-de-agua-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - delimitaciones-del-terreno-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: cercas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - delimitaciones-del-terreno-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - delimitaciones-del-terreno-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: limites -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - calles-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - arroyo-que-circunda-en-la-comunidad-isla-de-leon-en-cartagen - Anglicising: arroyo -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - arroyo-que-circunda-en-la-comunidad-isla-de-leon-en-cartagen - Anglicising: comunidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - arroyo-que-circunda-en-la-comunidad-isla-de-leon-en-cartagen - Anglicising: fuente de agua -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - vegetacion-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidades -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - vegetacion-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: vegetacion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - mortalidad - Anglicising: etnia -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - mortalidad - Anglicising: genero -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - mortalidad - Anglicising: motalidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - morbilidad - Anglicising: salud -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - guinea-health-facility-training-activities - Anglicising: santé -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - centros-educativos-de-honduras - Anglicising: centros educativos -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - centros-educativos-de-honduras - Anglicising: centros educativos rurales -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - centros-educativos-de-honduras - Anglicising: centros educativos urbanos -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - centros-educativos-de-honduras - Anglicising: escuelas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - adaado-district-conflict-and-security-assessment-2015 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - gardo-district-conflict-and-security-assessment-report-2015 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - censo-de-poblacion-de-el-salvador-1950-a-2007-poblacion-por-edad-simple - Anglicising: censo -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - censo-de-poblacion-de-el-salvador-1950-a-2007-poblacion-por-edad-simple - Anglicising: hombres -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - censo-de-poblacion-de-el-salvador-1950-a-2007-poblacion-por-edad-simple - Anglicising: mujeres -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - censo-de-poblacion-de-el-salvador-1950-a-2007-poblacion-por-edad-simple - Anglicising: población -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - establecimientos-de-salud-segun-departamento-y-tipo-de-establecimiento-en-bolivia - Anglicising: establecimientos de salud -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - ocha-somalia-topline-figures (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tasa-de-homicidios-colombia - Anglicising: proteccion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - tasa-de-homicidios-colombia - Anglicising: tasa de homicidios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - incidentes - Anglicising: desastres -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - incidentes - Anglicising: emergencias -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - incidentes - Anglicising: emergencias 2012 -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - incidentes - Anglicising: emergencias guatemala -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - incidentes - Anglicising: lluvias 2012 -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-indice-de-riesgo-de-situacion-humanitaria-nueva-metodologia - Anglicising: institucional -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-indice-de-riesgo-de-situacion-humanitaria-nueva-metodologia - Anglicising: riesgo -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-secuestro-extorsivo - Anglicising: extorsion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-secuestro-extorsivo - Anglicising: libertad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-secuestro-extorsivo - Anglicising: proteccion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-secuestro-extorsivo - Anglicising: secuestro -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-secuestro-simple - Anglicising: libertad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-secuestro-simple - Anglicising: proteccion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-secuestro-simple - Anglicising: secuestro -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-de-acueducto - Anglicising: acueducto -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-de-acueducto - Anglicising: infraestructura -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-de-acueducto - Anglicising: servicios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-de-acueducto - Anglicising: vivienda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-energia-electrica - Anglicising: energia -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-energia-electrica - Anglicising: infraestructura -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-energia-electrica - Anglicising: servicios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-energia-electrica - Anglicising: vivienda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cultivos-de-coca - Anglicising: proteccion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-telefonico - Anglicising: infraestructura -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-telefonico - Anglicising: servicios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-telefonico - Anglicising: vivienda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-numero-de-solicitudes-de-ingreso-al-registro-de-tierras - Anglicising: abandonamiento forzoso -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-numero-de-solicitudes-de-ingreso-al-registro-de-tierras - Anglicising: proteccion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-numero-de-solicitudes-de-ingreso-al-registro-de-tierras - Anglicising: restitucion de tierras -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-numero-de-hectareas-segun-solicitudes-ded - Anglicising: abandono forzoso -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-numero-de-hectareas-segun-solicitudes-ded - Anglicising: proteccion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-numero-de-hectareas-segun-solicitudes-ded - Anglicising: restitucion dde tierras -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-alcantarillado - Anglicising: alcantarillado -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-alcantarillado - Anglicising: infraestructura -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-alcantarillado - Anglicising: servicios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-alcantarillado - Anglicising: vivienda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-poblacion-total - Anglicising: censo -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-poblacion-total - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-conexion-a-gas - Anglicising: infraestructura -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-conexion-a-gas - Anglicising: servicios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-conexion-a-gas - Anglicising: vivienda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: dependencia economica -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: hacinamiento -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: inasistencia escolar -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: necesidades basicas insatisfechas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: pobreza -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: vivienda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-recoleccion-de-basuras - Anglicising: infraestructura -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-recoleccion-de-basuras - Anglicising: recoleccion de basuras -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-recoleccion-de-basuras - Anglicising: servicios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-cobertura-vivienda-sisben-con-recoleccion-de-basuras - Anglicising: vivienda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-desaparecidos-reportados - Anglicising: medicina legal -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-desaparecidos-reportados - Anglicising: proteccion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-homicidio-mujeres - Anglicising: homicidio -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-homicidio-mujeres - Anglicising: medicina legal -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-homicidio-mujeres - Anglicising: mujeres -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-homicidio-mujeres - Anglicising: proteccion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-homicidios-hombres - Anglicising: hombres -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-homicidios-hombres - Anglicising: homicidio -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-homicidios-hombres - Anglicising: medicina legal -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-homicidios-hombres - Anglicising: proteccion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-homicidios-medicina-legal - Anglicising: homicidios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-homicidios-medicina-legal - Anglicising: medicina legal -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-homicidios-medicina-legal - Anglicising: proteccion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - indice-inform - Anglicising: amenaza -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - indice-inform - Anglicising: desastres -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - indice-inform - Anglicising: riesgo -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - indice-inform - Anglicising: vulnerabilidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - indice-de-riesgo-de-victimizacion-irv - Anglicising: derechos humanos -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - indice-de-riesgo-de-victimizacion-irv - Anglicising: riesgo -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - indice-de-riesgo-de-victimizacion-irv - Anglicising: victimas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - district-wise-human-development-index-2011 (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - inforgrafia-2014-ocha-pnud - Anglicising: brechas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - inforgrafia-2014-ocha-pnud - Anglicising: calidad de vida -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - inforgrafia-2014-ocha-pnud - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: alertas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: deslizamiento -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: fuego -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: granizada -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: incendio estructural -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: incendio forestal -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: movilizacion social -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: movimientos de tierra -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: necesidades -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: paro -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: sectores -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: sequia -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-de-monitor - Anglicising: volcan -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - resguardos-indigenas - Anglicising: indigenas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - resguardos-indigenas - Anglicising: poblacion -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - kenya-surface-area-per-county (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ataques-a-objetivos-ilicitos-de-guerra - Anglicising: tendencias humanitarias -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - secuestros - Anglicising: secuestros -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - secuestros - Anglicising: tendencias humanitarias -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - datos-de-vulnerabilidades-amenazas-y-capacidades - Anglicising: desastres naturales -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - datos-de-vulnerabilidades-amenazas-y-capacidades - Anglicising: niñez -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - datos-de-vulnerabilidades-amenazas-y-capacidades - Anglicising: vulnerabilidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - datos-boletin-humanitario-ocha-colombia-noviembre-2014 - Anglicising: acceso -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - datos-boletin-humanitario-ocha-colombia-noviembre-2014 - Anglicising: desastres -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - datos-boletin-humanitario-ocha-colombia-noviembre-2014 - Anglicising: minas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - indice-de-riesgo-de-situacion-humanitaria - Anglicising: indice de riesgo situación humanitaria -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - desastres-naturales - Anglicising: desastres naturales -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - idps-anual-departamental - Anglicising: tendencias humanitarias -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - victimas-de-minas - Anglicising: minas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - victimas-de-minas - Anglicising: victimas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - statistiques-scolaires-de-l-enseignement-fondamental - Anglicising: ministry of education -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - datos-boletin-humanitario-ocha-colombia-octubre-2014 - Anglicising: desastres -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - datos-boletin-humanitario-ocha-colombia-octubre-2014 - Anglicising: indigenas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - proyecciones-de-poblacion-municipalmente - Anglicising: municipios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - proyecciones-de-poblacion-municipalmente - Anglicising: población -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - proyecciones-de-poblacion-municipalmente - Anglicising: proyecciones poblacionales -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - da - Anglicising: artefactos explosivos -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - da - Anglicising: desastres naturales -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - da - Anglicising: homicidios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - humanitarian-trends - Anglicising: extorsiones -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - humanitarian-trends - Anglicising: homicidios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - humanitarian-trends - Anglicising: tendencias humanitarias -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - cobertura-sisben - Anglicising: agua -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - cobertura-sisben - Anglicising: alcantarillado -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - cobertura-sisben - Anglicising: energia -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - cobertura-sisben - Anglicising: recoleccion de basuras -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - data-source-lists-for-south-sudan (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - governmental-information-of-colombia-s-victims-of-conflict (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - zwe_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - zmb_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - esh_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - wlf_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - vir_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - vgb_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - vnm_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ven_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - uzb_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ury_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - usa_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - gbr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - are_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ukr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - uga_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tuv_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tca_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tkm_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tur_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tun_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tto_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ton_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tkl_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tgo_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tha_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tza_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tjk_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - syr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - che_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - swe_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - swz_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - sjm_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - sur_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - sdn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - pse_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - spm_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - shn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - lka_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - esp_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ssd_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - zaf_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - som_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - slb_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - svn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - svk_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - sgp_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - sle_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - syc_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - srb_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - sen_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - sau_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - stp_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - smr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - wsm_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - vct_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - lca_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - kna_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - rwa_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - rus_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - rou-rw-indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - reu_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - qat_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - pri_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - prt_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - pol_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - pcn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - phl_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - per_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - pry_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - png_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - pan_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - plw_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - pak_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - omn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - nor_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mnp_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - nfk_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - niu_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - nga_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ner_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - nic_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - nzl_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ncl_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ant_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - nld_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - npl_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - nru_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - nam_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mmr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - moz_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mar_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - msr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mne_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mng_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mco_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mda_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - fsm_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mex_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - myt_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mus_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mrt_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mtq_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mhl_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mlt_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mli_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mdv_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mys_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mwi_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mdg_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mkd_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - mac_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - lux_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ltu_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - lie_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - lby_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - lbr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - lso_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - lbn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - lva_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - lao_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - kgz_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - kwt_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - kor_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - prk_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - kir_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ken_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - kaz_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - jor_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - jpn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - jam_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ita_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - isr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - irl_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - irq_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - irn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - idn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ind_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - isl_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - hun_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - hkg_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - hnd_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - vat_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - hti_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - guy_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - gnb_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - gtm_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - gum_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - glp_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - grd_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - grl_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - grc_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - gib_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - gha_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - deu_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - geo_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - gmb_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - gab_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - pyf_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - guf_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - fxx_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - fra_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - fin_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - fji_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - fro_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - flk_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - eth_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - est_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - eri_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - gnq_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - slv_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - egy_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ecu_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tls-rw-indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - dom_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - dma_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - dji_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - dnk_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - cze_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - cyp_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - cub_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - hrv_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - civ_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - cri_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - cok_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - cod_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - cog_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - com_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - col_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - chn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - chl_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - tcd_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - caf_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - cym_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - cpv_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - can_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - cmr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - khm_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bdi_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bfa_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bgr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - brn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bra_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bwa_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bih_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bol_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - btn_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bmu_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ben_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - blz_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bel_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - blr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - brb_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bgd_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bhr_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - bhs_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - aze_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - aut_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - aus_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - abw_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - arm_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - arg_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - atg_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - aia_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ago_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - and_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - asm_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - dza_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - alb_rw_indicators (public) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - turkey-other-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - iraq-other-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - libya-other (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - turkey-other (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - yemen-other-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - yemen-other (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - namibia-other (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - zimbabwe-other (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - chad-other (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - indonesia-other (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - inform (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - liste-de-contacts-contact-list (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - titulos-mineros-vigentes - Anglicising: minas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - titulos-mineros-historicos - Anglicising: minas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - parques-nacionales-naturales (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - itcp-2013 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - irsh-2012 - Anglicising: riesgo -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - cultivos-ilicitos (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ccy-overview-2014 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - amenaza-volcanica-ingeominas-2007 - Anglicising: amenaza -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - amenaza-volcanica-ingeominas-2007 - Anglicising: volcan -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - accidentes-con-map - Anglicising: minas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - colombia-centros-poblados-2012 - Anglicising: centros poblados -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - colombia-centros-poblados-2012 - Anglicising: límites -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - colombia-centros-poblados-2012 - Anglicising: municipios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - albergues-norte-de-santander - Anglicising: emergencia -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-antioquia - Anglicising: limites -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-antioquia - Anglicising: municipios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-antioquia - Anglicising: veredas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - colombia-amenaza-de-remocion-en-masa-deslizamientos - Anglicising: amenaza -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - colombia-amenaza-de-remocion-en-masa-deslizamientos - Anglicising: desastres naturales -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - colombia-cabeceras-municipales - Anglicising: centros poblados -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - colombia-cabeceras-municipales - Anglicising: límites -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - zonas-susceptibles-a-inundacion - Anglicising: desastres naturales -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - colombia-resguardos-indigenas-2012 - Anglicising: límites -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-norte-de-santander - Anglicising: limites -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-norte-de-santander - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - colombia-titulos-mineros-vigentes - Anglicising: municipios -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - kenya-other-0-0-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - kenya-other-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - somalia-other-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - somalia-other-0-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - somalia-other-0-0-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - ethiopia-other-0-0 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - colombia-other (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-arauquita - Anglicising: divipola -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-arauquita - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-arauca - Anglicising: divipola -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-arauca - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-fortul - Anglicising: divipola -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-fortul - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-cravo-norte - Anglicising: divipola -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-cravo-norte - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-puerto-rondon - Anglicising: divipola -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-puerto-rondon - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-saravena - Anglicising: divipola -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-saravena - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-caceres - Anglicising: divipola -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-caceres - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-tame - Anglicising: divipola -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-tame - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - resguardos-indigenas-2011 - Anglicising: comunidad -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - resguardos-indigenas-2011 - Anglicising: comunidades -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-departamental-de-colombia - Anglicising: limites administrativos -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - cabeceras-municipales - Anglicising: limites administrativos -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-argelia-cauca - Anglicising: limites -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-argelia-cauca - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-el-tarra-n-s - Anglicising: limites -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-el-tarra-n-s - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - corregimientos-veredas-municipio-de-tulua - Anglicising: veredas -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - veredas-pradera-valle-del-cauca - Anglicising: frontera -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - veredas-pradera-valle-del-cauca - Anglicising: limites -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - veredas-pradera-valle-del-cauca - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-el-bagre-antioquia - Anglicising: antioquia -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - division-veredal-municipio-de-el-bagre-antioquia - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - veredas-ibague - Anglicising: vereda -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - somalia-other (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - indicadores-de-salud-1990-2011 - Anglicising: calidad de vida -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - indicadores-de-salud-1990-2011 - Anglicising: salud -> nothing!
-WARNING - 2018-05-25 14:43:50 - __main__ - sistema-de-informacion-hidrometeorologicos (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - indice-de-desarrollo-humano (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - daily-humanitarian-news-brief (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - gorkha-district-base-map-emergency-response (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - global-risk-data-platform (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - east-timor-disaster-profile (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - disaster-complete-data (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - uganda-administrative-regions-test (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - distance-nrt-ccy-hq (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - list-of-aid-agencies-in-uganda (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - nrt-to-ccy-hq-distances (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - human-wildlife-conflict-2014 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - wildlife-comms (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - pike (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - nrt-ranger-blocks (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - kenya-marine-resource-mapping-tool (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - somalia-ngo-consortium (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - adult-literacy-rates-in-south-sudan (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - an-example-dataset (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - key-humanitarian-figure (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - sidih-indicators (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - consolidado-boletin-humanitario-ocha-oct-2014 (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - haiti-aid-map (private) has no tags!
-WARNING - 2018-05-25 14:43:50 - __main__ - total_number_of_un_peacekeepers (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - reliefweb-crisis-app-data (public) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - cerf-topline-figures (public) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - ocha-afghanistan-topline-figures (public) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-proporcion-de-participacion-femenina-en-relacion-a-hombre-en-pea-ocupada-2013 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-relacion-alumnos-por-docente-2016 - Anglicising: alumnos -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-porcentaje-de-poblacion-con-discapacidad-2013 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-migrantes-repatriados-y-retornados-2016 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-porcentaje-de-poblacion-con-necesidades-basicas-insatisfechas-2009 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-porcentaje-de-poblacion-urbana-en-asentamiento-precarios-2012 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-porcentaje-de-poblacion-urbana-en-asentamiento-precarios-2012 - Anglicising: vivienda -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-tasa-de-dependencia-por-edades-2013 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-poblacion-economicamente-activa-que-esta-desocupada-e-inactiva-2013 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-coeficiente-de-gini-2003 (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-indice-de-desarrollo-humano-2009 (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-tasa-de-homicidios-por-cada-100-000-personas-2017 - Anglicising: homicidios -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-homicidios-registrado-en-el-municipio-2017 - Anglicising: homicidios -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-poblacion-media-anual-expuesta-a-sequia-2000-2015 - Anglicising: población -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-poblacion-expuesta-a-deslizamientos-2012 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-poblacion-media-anual-expuesta-a-inundaciones-1995-2015 (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - honduras-poblacion-media-anual-expuesta-a-terremotos-2012 - Anglicising: desastres -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - proyecciones-de-poblacion-por-area-y-sexo-segun-departamento-y-municipio - Anglicising: censo -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - proyecciones-de-poblacion-por-area-y-sexo-segun-departamento-y-municipio - Anglicising: población -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - proyecciones-de-poblacion-por-area-y-sexo-segun-departamento-y-municipio - Anglicising: proyección -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - limites-de-peru - Anglicising: geonada -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - limites-de-peru - Anglicising: limites -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - limites-de-peru - Anglicising: provincia -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - division-politica-de-honduras - Anglicising: extensión -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - division-politica-de-honduras - Anglicising: municipios -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - centros-poblados-2012 - Anglicising: centro poblado -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - centros-poblados-2012 - Anglicising: limites administrativos -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - centros-poblados-2012 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: censo -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: extranjero -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: hombres -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: masculinidad -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: mujeres -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - censo-de-poblacion-y-vivienda-el-salvador-2007 - Anglicising: vivienda -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - rd-congo-donnees-epidemiologiques - Anglicising: epidémiologie -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - rd-congo-donnees-epidemiologiques - Anglicising: maladies -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - reporte-estadistico-mensual-de-extorsiones-en-colombia-2010-2016 - Anglicising: extorsion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - reporte-estadistico-municipal-mensual-de-secuestros-en-colombia-2010-2016 - Anglicising: secuestro -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - https-datos-umaic-org-dataset-reporte-estadistico-de-desapariciones-homicidios-violencia-y-suicidios - Anglicising: homicidios -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_mobile_money_agents (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_education_facilities (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_market_centres (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_shops (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_wash_facilities (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_offices (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_places_of_worship (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_centres_and_stations (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_villages (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_financial_services (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_fuel_stations (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_health_facilities (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - hotosm_uganda_refugee_crisis_refugee_camps (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-brecha-de-pobreza-2011 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-brecha-de-pobreza-2011 - Anglicising: pobreza -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - tabla-de-desastres-geodinamicos-y-geofisicos-e-hidrometeorologicos-ocurridos-desde-1530-al-ano-2015 - Anglicising: desastres -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-tasa-de-dependencia-general - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-pobreza-rural-2009 - Anglicising: pobreza -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-condiciones-de-vida-vivienda-2013 - Anglicising: vivienda -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-poblacion-indigena-2012 - Anglicising: indigenas -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-poblacion-indigena-2012 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-poblacion-indigena-2012 - Anglicising: vulnerabilidad -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-incidencia-en-peso-para-talla-en-menores-de-5-anos-por-desastres-naturales-2015 - Anglicising: desastres naturales -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-incidencia-en-peso-para-talla-en-menores-de-5-anos-por-desastres-naturales-2015 - Anglicising: niñez -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-personas-afectadas-por-amenazas-naturales-2015 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-indice-de-avance-educativo-2010 - Anglicising: niñez -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-enfermedades-recurrentes-en-la-poblacion-2015 - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-capacidad-institucional-para-la-reduccion-de-riesgos-a-desastres-2016 - Anglicising: desastres -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-cantidad-de-medicos-por-cada-1-000-habitantes-2016 - Anglicising: salud -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-acceso-a-la-mejora-del-agua-potable-2013 - Anglicising: agua -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-cobertura-de-vacunacion-contra-el-sarampion-u-otros-2015 - Anglicising: niñez -> nothing!
+WARNING - 2018-06-04 13:20:37 - __main__ - guatemala-densidad-de-carreteras-2013 (public) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - this-is-a-test-for-previews-can-be-deleted (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - test-mary (private) has no tags!
+WARNING - 2018-06-04 13:20:37 - __main__ - test10 (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - unosat-topline-figures (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - unhcr-topline-figures (public) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - somalia-ngo-consortium-topline-figures (public) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - wfp-topline-figures (public) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - ukraine-administrative-boundaries-as-of-q2-2017 - Anglicising: raion -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - incidentes-2008-2017 - Anglicising: desastres -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - incidentes-2008-2017 - Anglicising: emergencia -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - incidentes-2008-2017 - Anglicising: emergencias -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - incidentes-2008-2017 - Anglicising: incidentes -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - incidentes-2008-2017 - Anglicising: lluvias -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - citizen-feedback-in-the-earthquake-affected-areas (public) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - mexico-albergues-temporales-en-nayarit - Anglicising: refugio -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - mexico-albergues-en-jalisco - Anglicising: refugio -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - mexico-albergues-en-colima - Anglicising: refugio -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - laderas - Anglicising: laderas -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - mexico-presas - Anglicising: presas -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - recap-estimation-de-population-analyse-ch-mars-2016-des-9-pays-sahel - Anglicising: cadre harmonisé -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - yemen-json (public) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - admin-boundaries-villages-libya-cods - Anglicising: baladiya -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - chad-gis-geodatabase - Anglicising: cadre harmonisé -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - estadisticas-de-flujos-migratorios-en-la-frontera-colombo-venezolana - Anglicising: estadisticas -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - insecurite-alimentaire-cadre-harmonise-food-insecurity-harmonized-framework - Anglicising: cadre harmonisé -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - restricciones-de-acceso - Anglicising: acceso -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - restricciones-de-acceso - Anglicising: restricciones de acceso -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - restricciones-de-acceso - Anglicising: tendencias humanitarias -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - tasa-de-homicidios - Anglicising: tendencias humanitarias -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - antique-map-of-district-peshawar-peshawar-walled-city-map (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - sidih-humanitarian-needs-overview - Anglicising: indicadores humanitarios -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - sidih-humanitarian-needs-overview - Anglicising: necesidades -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - libya-admin-level-3 - Anglicising: baladiya -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - tendencias-humanitarias-y-paz - Anglicising: acciones belicas -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - tendencias-humanitarias-y-paz - Anglicising: extorcion -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - tendencias-humanitarias-y-paz - Anglicising: homicidios -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - tendencias-humanitarias-y-paz - Anglicising: minas -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - tendencias-humanitarias-y-paz - Anglicising: restricciones acceso -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - tendencias-humanitarias-y-paz - Anglicising: secuestros -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - tendencias-humanitarias-y-paz - Anglicising: tendencias humanitarias -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - region-de-desarrollo-01-honduras - Anglicising: centros de salud -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - region-de-desarrollo-01-honduras - Anglicising: municipios -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - region-de-desarrollo-01-honduras - Anglicising: población -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - region-de-desarrollo-01-honduras - Anglicising: proyección -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - violencia-aramada-de-moritor - Anglicising: acciones belicas -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - violencia-aramada-de-moritor - Anglicising: explosivos -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - violencia-aramada-de-moritor - Anglicising: homicidio -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - violencia-aramada-de-moritor - Anglicising: hostigamiento -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - violencia-aramada-de-moritor - Anglicising: restriccion al acceso -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - violencia-aramada-de-moritor - Anglicising: secuestro -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - colombia-admin-level-4-boundaries - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - colombia-admin-level-4-boundaries - Anglicising: proyecciones poblacionales -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - region-de-desarrollo-02-honduras - Anglicising: municipios -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - region-de-desarrollo-03-honduras - Anglicising: municipios -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - discapacidad - Anglicising: estrato -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - discapacidad - Anglicising: etnia -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - discapacidad - Anglicising: municipios -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - discapacidad - Anglicising: personas discapacitadas -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - discapacidad - Anglicising: salud -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - censo-de-poblacion-guatemala - Anglicising: censo -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - censo-de-poblacion-guatemala - Anglicising: población -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - censo-de-poblacion-guatemala - Anglicising: proyección -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - kenya-number-of-road-fatalities-in-kenya (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - dato-de-fichas-zonas-veredales-de-transicion - Anglicising: guerra -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - kenya-other-0-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - base-data-for-typhoon-nina (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - base-de-datos-infograma-primer-semestre-del-2016 - Anglicising: desastres naturales -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - base-de-datos-infograma-primer-semestre-del-2016 - Anglicising: homicidios -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - base-de-datos-infograma-primer-semestre-del-2016 - Anglicising: infograma -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - base-de-datos-infograma-primer-semestre-del-2016 - Anglicising: minas -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - african-port-statistics-2013 - Anglicising: pmaesa -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - world-female-contraceptive-prevalence-rate-percentage-of-of-15-49-year-old-females (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - world-maternal-mortality-number-of-deaths (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - world-infant-mortality-rate-deaths-per-1-000-live-births (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - world-adolescent-fertility-rate-live-births-per-1-000-women-aged-15-19 (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - world-fertility-rate-live-births-per-woman (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - world-crude-death-rate-per-1-000-population (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - world-crude-birth-rate-per-1-000-population (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - world-old-age-support-ratio (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - world-elderly-population-percentage-of-population (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - world-child-sex-ratio-boys-per-100-girls (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - world-population-sex-ratio-males-per-100-females (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - malawi-merged (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - pobreza-en-venezuela - Anglicising: pobreza -> nothing!
+WARNING - 2018-06-04 13:20:38 - __main__ - pre-disaster-indicators-ocha-2010 (private) has no tags!
+WARNING - 2018-06-04 13:20:38 - __main__ - english-arabic-glossary-of-humanitarian-terms (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - resultados-plebiscito-por-la-paz-en-colombia - Anglicising: plebiscito -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - 160523-ocha-4w-round-2 - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - ecuador-earthquake-5w-round-11 - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - ecuador-earthquake-5w-round-10 - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - ecuador-earthquake-5w-round-9 - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - ecuador-earthquake-5w-round-8 - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - ecuador-earthquake-5w-round-7 - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - salgar-colombia - Anglicising: antioquia -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - confinamiento - Anglicising: restricciones -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - tendencias-humanitarias-y-paz-dic-2015 - Anglicising: acceso -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - tendencias-humanitarias-y-paz-dic-2015 - Anglicising: acciones belicas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - tendencias-humanitarias-y-paz-dic-2015 - Anglicising: homicidios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - tendencias-humanitarias-y-paz-dic-2015 - Anglicising: proteccion a la niñez -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - tendencias-humanitarias-y-paz-dic-2015 - Anglicising: secuestros -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - subsidiariedad-uariv15 - Anglicising: focalizacion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - subsidiariedad-uariv15 - Anglicising: victimas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - pasos-de-frontera-colombia-venezuela - Anglicising: frontera -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - ecuador-earthquake-5w-round-6 - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - ecuador-earthquake-5w-round-5 - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - eradicate-extreme-poverty-and-hunger-eradiquer-la-pauvrete-ewtreme-et-la-faim (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - ecuador-earthquake-5w-round-4 - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-de-riesgo-de-calidad - Anglicising: agua -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-infograma-2015 - Anglicising: artefactos explosivos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-infograma-2015 - Anglicising: desastres naturales -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-infograma-2015 - Anglicising: tasa de homicidios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-infogramas-i-semestre-2015 - Anglicising: artefactos explosivos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-infogramas-i-semestre-2015 - Anglicising: desastres naturales -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-infogramas-i-semestre-2015 - Anglicising: tasa de homicidios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - ecuador-earthquake-4w-round-3 - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-territorial-para-la-construccion-de-datos - Anglicising: homicidios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-territorial-para-la-construccion-de-datos - Anglicising: secuestros -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - ecuador-earthquake-3w - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - list-of-ecuador-schools - Anglicising: terremoto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - retornos-y-reubicaciones - Anglicising: retornos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - retornos-y-reubicaciones - Anglicising: reubicaciones -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - retornos-y-reubicaciones - Anglicising: victimas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - acciones-en-la-respuesta-de-la-crisis-de-la-frontera-colombo-venezolana - Anglicising: finanaciacion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - acciones-en-la-respuesta-de-la-crisis-de-la-frontera-colombo-venezolana - Anglicising: respuesta -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - lecciones-aprendidas-de-la-respuesta-a-inundaciones-en-loreto-en-2012 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - la-guajira-colombia - Anglicising: la guajira -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - cameroon-population - Anglicising: lac chad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - nigeria-population - Anglicising: lac chad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - lake-chad-basin-crisis-topline-figures (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - fiji-pcodes (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - turkey-other-0-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - indicadores-del-sidih - Anglicising: salud -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - jowhar-district-conflict-and-security-assessment-2015 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - sheikh-district-conflict-and-security-assessment-2015 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - citizen-feedback-in-the-earthquake-affected-areas-second-round (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - jordan-other-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - jordan-other-0-0-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - jordan-other-0-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - iraq-other (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - health-centers-data-base - Anglicising: centres de santé -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - health-centers-data-base - Anglicising: ministère de la santé -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - health-centers-data-base - Anglicising: santé -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - syrian-arab-republic-other-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - syrian-arab-republic-other-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - syrian-arab-republic-other-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - syrian-arab-republic-other-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - 2012-census-tanzania-wards-shapefiles (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - huracan-patricia-landed-area - Anglicising: hermosillo -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - mexico-censo-de-escuelas-maestros-y-alumnos-de-educacion-basica-y-especial - Anglicising: alumnos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - mexico-censo-de-escuelas-maestros-y-alumnos-de-educacion-basica-y-especial - Anglicising: escuelas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - mexico-censo-de-escuelas-maestros-y-alumnos-de-educacion-basica-y-especial - Anglicising: maestros -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - capas-mapa-mexico - Anglicising: capas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - disaster-data-from-1971-1990 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - disaster-data-from-1991-2010 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - new-and-supplemental-projects-of-world-bank-in-nepal (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - mdg-goals-progress-2010-2013-and-target-2015 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - deaths-caused-by-disaster-2011-2012 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - estimated-loss-during-disaster-in-2012-and-2013 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - total-number-of-registered-vehicle-2013 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - road-traffic-accident-records-2013 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - causes-of-road-accidents-2013 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - number-of-vehicle-registration-in-bagmati-zone-2000-2014 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - earthquake-by-epicentre-and-magnitude-2008-2012 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - total-strategic-road-network-srn-length-influenced-population-of-district-in-nepal-2011 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - human-casualties-due-to-major-disasters-in-nepal-1983-2013 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - number-of-hospitals-in-nepal-2013 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - number-of-hospital-bed-capacity-in-development-region-2013 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - strikes-done-by-action-initiators (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - number-of-crimes-2068-71-b-s (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - development-program-and-budget-allocation-in-the-district-fy-207071 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - causalities-caused-by-earthquake-2015 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - financial-aid-data-for-earthquake-as-of-june-92015 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - magnitude-of-earthquake-and-its-aftershock-as-of-june-2-2015 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - allocation-of-relief-material-in-earthquake-affected-districts (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - disbursement-of-relief-material-in-earthquake-affected-districts (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - niger-other (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - malawi-other (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - dpr-korea-other (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - bangladesh-other-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - mauritania-other-0-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - mauritania-other-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - mauritania-other (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - uganda-other-0-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - uganda-other-0 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - djibouti-other (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-de-precios-al-consumidor-inpc - Anglicising: indice de precios al consumidor -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-de-precios-al-consumidor-inpc - Anglicising: inflación -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - transporte-y-comunicaciones-de-peru - Anglicising: comunicacion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - transporte-y-comunicaciones-de-peru - Anglicising: muelle -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - toponimia-de-peru - Anglicising: cerro -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - toponimia-de-peru - Anglicising: cordillera -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - toponimia-de-peru - Anglicising: nevado -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - toponimia-de-peru - Anglicising: volcan -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - industria-de-peru - Anglicising: gasoductos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - industria-de-peru - Anglicising: industria -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - industria-de-peru - Anglicising: minas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - industria-de-peru - Anglicising: oleoductos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - aspectos-culturales-de-peru - Anglicising: provincia -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - aspectos-culturales-de-peru - Anglicising: restos arqueologicos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - fisiografia-de-peru - Anglicising: fisiografia -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - fisiografia-de-peru - Anglicising: geodesica -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - fisiografia-de-peru - Anglicising: nivel -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - economia-de-venezuela - Anglicising: inflación -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - economia-de-venezuela - Anglicising: precio barril -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - empleo-y-ocupacion-en-venezuela - Anglicising: empleo -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - educacion-y-nivel-de-vida-en-venezuela - Anglicising: inversión pública -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - educacion-y-nivel-de-vida-en-venezuela - Anglicising: nivel de vida -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - hidrografia-de-peru - Anglicising: agua -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - hidrografia-de-peru - Anglicising: lagunas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - hidrografia-de-peru - Anglicising: quebradas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - hidrografia-de-peru - Anglicising: rios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - proyeccion-de-poblacion-por-distrito-y-edad-de-peru - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - proyeccion-de-poblacion-por-distrito-y-edad-de-peru - Anglicising: proyeccion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - urbaninfo-indicators-2011 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - viviendas-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - viviendas-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: vivienda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - vegetacion-riberena-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: arroyo -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - vegetacion-riberena-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - vegetacion-riberena-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: vegetacion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - senderos-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - senderos-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: senderos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - puntos-de-agua-colectivos-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - energia-electrica-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - energia-electrica-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: energia -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - limite-geografico-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - limite-geografico-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: limites -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - cuerpos-de-agua-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - delimitaciones-del-terreno-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: cercas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - delimitaciones-del-terreno-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - delimitaciones-del-terreno-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: limites -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - calles-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - arroyo-que-circunda-en-la-comunidad-isla-de-leon-en-cartagen - Anglicising: arroyo -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - arroyo-que-circunda-en-la-comunidad-isla-de-leon-en-cartagen - Anglicising: comunidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - arroyo-que-circunda-en-la-comunidad-isla-de-leon-en-cartagen - Anglicising: fuente de agua -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - vegetacion-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: comunidades -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - vegetacion-de-la-comunidad-isla-de-leon-en-cartagena - Anglicising: vegetacion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - mortalidad - Anglicising: etnia -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - mortalidad - Anglicising: genero -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - mortalidad - Anglicising: motalidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - morbilidad - Anglicising: salud -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - guinea-health-facility-training-activities - Anglicising: santé -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - centros-educativos-de-honduras - Anglicising: centros educativos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - centros-educativos-de-honduras - Anglicising: centros educativos rurales -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - centros-educativos-de-honduras - Anglicising: centros educativos urbanos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - centros-educativos-de-honduras - Anglicising: escuelas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - adaado-district-conflict-and-security-assessment-2015 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - gardo-district-conflict-and-security-assessment-report-2015 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - censo-de-poblacion-de-el-salvador-1950-a-2007-poblacion-por-edad-simple - Anglicising: censo -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - censo-de-poblacion-de-el-salvador-1950-a-2007-poblacion-por-edad-simple - Anglicising: hombres -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - censo-de-poblacion-de-el-salvador-1950-a-2007-poblacion-por-edad-simple - Anglicising: mujeres -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - censo-de-poblacion-de-el-salvador-1950-a-2007-poblacion-por-edad-simple - Anglicising: población -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - establecimientos-de-salud-segun-departamento-y-tipo-de-establecimiento-en-bolivia - Anglicising: establecimientos de salud -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - ocha-somalia-topline-figures (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - tasa-de-homicidios-colombia - Anglicising: proteccion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - tasa-de-homicidios-colombia - Anglicising: tasa de homicidios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - incidentes - Anglicising: desastres -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - incidentes - Anglicising: emergencias -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - incidentes - Anglicising: emergencias 2012 -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - incidentes - Anglicising: emergencias guatemala -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - incidentes - Anglicising: lluvias 2012 -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-indice-de-riesgo-de-situacion-humanitaria-nueva-metodologia - Anglicising: institucional -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-indice-de-riesgo-de-situacion-humanitaria-nueva-metodologia - Anglicising: riesgo -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-secuestro-extorsivo - Anglicising: extorsion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-secuestro-extorsivo - Anglicising: libertad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-secuestro-extorsivo - Anglicising: proteccion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-secuestro-extorsivo - Anglicising: secuestro -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-secuestro-simple - Anglicising: libertad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-secuestro-simple - Anglicising: proteccion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-secuestro-simple - Anglicising: secuestro -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-de-acueducto - Anglicising: acueducto -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-de-acueducto - Anglicising: infraestructura -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-de-acueducto - Anglicising: servicios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-de-acueducto - Anglicising: vivienda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-energia-electrica - Anglicising: energia -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-energia-electrica - Anglicising: infraestructura -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-energia-electrica - Anglicising: servicios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-energia-electrica - Anglicising: vivienda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cultivos-de-coca - Anglicising: proteccion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-telefonico - Anglicising: infraestructura -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-telefonico - Anglicising: servicios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-servicio-telefonico - Anglicising: vivienda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-numero-de-solicitudes-de-ingreso-al-registro-de-tierras - Anglicising: abandonamiento forzoso -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-numero-de-solicitudes-de-ingreso-al-registro-de-tierras - Anglicising: proteccion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-numero-de-solicitudes-de-ingreso-al-registro-de-tierras - Anglicising: restitucion de tierras -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-numero-de-hectareas-segun-solicitudes-ded - Anglicising: abandono forzoso -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-numero-de-hectareas-segun-solicitudes-ded - Anglicising: proteccion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-numero-de-hectareas-segun-solicitudes-ded - Anglicising: restitucion dde tierras -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-alcantarillado - Anglicising: alcantarillado -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-alcantarillado - Anglicising: infraestructura -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-alcantarillado - Anglicising: servicios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-alcantarillado - Anglicising: vivienda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-poblacion-total - Anglicising: censo -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-poblacion-total - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-conexion-a-gas - Anglicising: infraestructura -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-conexion-a-gas - Anglicising: servicios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-conexion-a-gas - Anglicising: vivienda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: dependencia economica -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: hacinamiento -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: inasistencia escolar -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: necesidades basicas insatisfechas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: pobreza -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-poblacion-con-nbi-resto - Anglicising: vivienda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-recoleccion-de-basuras - Anglicising: infraestructura -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-recoleccion-de-basuras - Anglicising: recoleccion de basuras -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-recoleccion-de-basuras - Anglicising: servicios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-cobertura-vivienda-sisben-con-recoleccion-de-basuras - Anglicising: vivienda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-desaparecidos-reportados - Anglicising: medicina legal -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-desaparecidos-reportados - Anglicising: proteccion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-homicidio-mujeres - Anglicising: homicidio -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-homicidio-mujeres - Anglicising: medicina legal -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-homicidio-mujeres - Anglicising: mujeres -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-homicidio-mujeres - Anglicising: proteccion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-homicidios-hombres - Anglicising: hombres -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-homicidios-hombres - Anglicising: homicidio -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-homicidios-hombres - Anglicising: medicina legal -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-homicidios-hombres - Anglicising: proteccion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-homicidios-medicina-legal - Anglicising: homicidios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-homicidios-medicina-legal - Anglicising: medicina legal -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-homicidios-medicina-legal - Anglicising: proteccion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-inform - Anglicising: amenaza -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-inform - Anglicising: desastres -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-inform - Anglicising: riesgo -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-inform - Anglicising: vulnerabilidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-de-riesgo-de-victimizacion-irv - Anglicising: derechos humanos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-de-riesgo-de-victimizacion-irv - Anglicising: riesgo -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-de-riesgo-de-victimizacion-irv - Anglicising: victimas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - district-wise-human-development-index-2011 (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - inforgrafia-2014-ocha-pnud - Anglicising: brechas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - inforgrafia-2014-ocha-pnud - Anglicising: calidad de vida -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - inforgrafia-2014-ocha-pnud - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: alertas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: deslizamiento -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: fuego -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: granizada -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: incendio estructural -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: incendio forestal -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: movilizacion social -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: movimientos de tierra -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: necesidades -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: paro -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: sectores -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: sequia -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-de-monitor - Anglicising: volcan -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - resguardos-indigenas - Anglicising: indigenas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - resguardos-indigenas - Anglicising: poblacion -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - kenya-surface-area-per-county (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - ataques-a-objetivos-ilicitos-de-guerra - Anglicising: tendencias humanitarias -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - secuestros - Anglicising: secuestros -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - secuestros - Anglicising: tendencias humanitarias -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-de-vulnerabilidades-amenazas-y-capacidades - Anglicising: desastres naturales -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-de-vulnerabilidades-amenazas-y-capacidades - Anglicising: niñez -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-de-vulnerabilidades-amenazas-y-capacidades - Anglicising: vulnerabilidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-boletin-humanitario-ocha-colombia-noviembre-2014 - Anglicising: acceso -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-boletin-humanitario-ocha-colombia-noviembre-2014 - Anglicising: desastres -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-boletin-humanitario-ocha-colombia-noviembre-2014 - Anglicising: minas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-de-riesgo-de-situacion-humanitaria - Anglicising: indice de riesgo situación humanitaria -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - desastres-naturales - Anglicising: desastres naturales -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - idps-anual-departamental - Anglicising: tendencias humanitarias -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - victimas-de-minas - Anglicising: minas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - victimas-de-minas - Anglicising: victimas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - statistiques-scolaires-de-l-enseignement-fondamental - Anglicising: ministry of education -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-boletin-humanitario-ocha-colombia-octubre-2014 - Anglicising: desastres -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - datos-boletin-humanitario-ocha-colombia-octubre-2014 - Anglicising: indigenas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - proyecciones-de-poblacion-municipalmente - Anglicising: municipios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - proyecciones-de-poblacion-municipalmente - Anglicising: población -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - proyecciones-de-poblacion-municipalmente - Anglicising: proyecciones poblacionales -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - da - Anglicising: artefactos explosivos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - da - Anglicising: desastres naturales -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - da - Anglicising: homicidios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - humanitarian-trends - Anglicising: extorsiones -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - humanitarian-trends - Anglicising: homicidios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - humanitarian-trends - Anglicising: tendencias humanitarias -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - cobertura-sisben - Anglicising: agua -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - cobertura-sisben - Anglicising: alcantarillado -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - cobertura-sisben - Anglicising: energia -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - cobertura-sisben - Anglicising: recoleccion de basuras -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - data-source-lists-for-south-sudan (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - governmental-information-of-colombia-s-victims-of-conflict (public) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - turkey-other-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - iraq-other-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - libya-other (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - turkey-other (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - yemen-other-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - yemen-other (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - namibia-other (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - zimbabwe-other (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - philippines-other-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - chad-other (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - indonesia-other (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - inform (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - liste-de-contacts-contact-list (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - titulos-mineros-vigentes - Anglicising: minas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - titulos-mineros-historicos - Anglicising: minas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - parques-nacionales-naturales (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - itcp-2013 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - irsh-2012 - Anglicising: riesgo -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - cultivos-ilicitos (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - ccy-overview-2014 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - amenaza-volcanica-ingeominas-2007 - Anglicising: amenaza -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - amenaza-volcanica-ingeominas-2007 - Anglicising: volcan -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - accidentes-con-map - Anglicising: minas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - colombia-centros-poblados-2012 - Anglicising: centros poblados -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - colombia-centros-poblados-2012 - Anglicising: límites -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - colombia-centros-poblados-2012 - Anglicising: municipios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - albergues-norte-de-santander - Anglicising: emergencia -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-antioquia - Anglicising: limites -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-antioquia - Anglicising: municipios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-antioquia - Anglicising: veredas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - colombia-amenaza-de-remocion-en-masa-deslizamientos - Anglicising: amenaza -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - colombia-amenaza-de-remocion-en-masa-deslizamientos - Anglicising: desastres naturales -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - colombia-cabeceras-municipales - Anglicising: centros poblados -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - colombia-cabeceras-municipales - Anglicising: límites -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - zonas-susceptibles-a-inundacion - Anglicising: desastres naturales -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - colombia-resguardos-indigenas-2012 - Anglicising: límites -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-norte-de-santander - Anglicising: limites -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-norte-de-santander - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - colombia-titulos-mineros-vigentes - Anglicising: municipios -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - kenya-other-0-0-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - kenya-other-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - somalia-other-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - somalia-other-0-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - somalia-other-0-0-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - ethiopia-other-0-0 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - colombia-other (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-arauquita - Anglicising: divipola -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-arauquita - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-arauca - Anglicising: divipola -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-arauca - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-fortul - Anglicising: divipola -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-fortul - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-cravo-norte - Anglicising: divipola -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-cravo-norte - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-puerto-rondon - Anglicising: divipola -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-puerto-rondon - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-saravena - Anglicising: divipola -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-saravena - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-caceres - Anglicising: divipola -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-caceres - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-tame - Anglicising: divipola -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-tame - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - resguardos-indigenas-2011 - Anglicising: comunidad -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - resguardos-indigenas-2011 - Anglicising: comunidades -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-departamental-de-colombia - Anglicising: limites administrativos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - cabeceras-municipales - Anglicising: limites administrativos -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-argelia-cauca - Anglicising: limites -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-argelia-cauca - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-el-tarra-n-s - Anglicising: limites -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-el-tarra-n-s - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - corregimientos-veredas-municipio-de-tulua - Anglicising: veredas -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - veredas-pradera-valle-del-cauca - Anglicising: frontera -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - veredas-pradera-valle-del-cauca - Anglicising: limites -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - veredas-pradera-valle-del-cauca - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-el-bagre-antioquia - Anglicising: antioquia -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - division-veredal-municipio-de-el-bagre-antioquia - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - veredas-ibague - Anglicising: vereda -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - somalia-other (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - indicadores-de-salud-1990-2011 - Anglicising: calidad de vida -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - indicadores-de-salud-1990-2011 - Anglicising: salud -> nothing!
+WARNING - 2018-06-04 13:20:39 - __main__ - sistema-de-informacion-hidrometeorologicos (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - indice-de-desarrollo-humano (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - daily-humanitarian-news-brief (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - gorkha-district-base-map-emergency-response (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - global-risk-data-platform (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - east-timor-disaster-profile (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - disaster-complete-data (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - uganda-administrative-regions-test (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - distance-nrt-ccy-hq (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - list-of-aid-agencies-in-uganda (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - nrt-to-ccy-hq-distances (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - human-wildlife-conflict-2014 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - wildlife-comms (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - pike (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - nrt-ranger-blocks (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - kenya-marine-resource-mapping-tool (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - testing_creation_via_api_ketng (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - somalia-ngo-consortium (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - adult-literacy-rates-in-south-sudan (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - an-example-dataset (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - key-humanitarian-figure (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - sidih-indicators (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - testing-title-101 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - consolidado-boletin-humanitario-ocha-oct-2014 (private) has no tags!
+WARNING - 2018-06-04 13:20:39 - __main__ - haiti-aid-map (private) has no tags!

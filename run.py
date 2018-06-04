@@ -30,7 +30,7 @@ def update_tag(dataset, tag, final_tags, wording, remove_existing=True):
             logger.warning('%snothing!' % text)
         return
     tags_lower_five = final_tags[:5].lower()
-    if tags_lower_five == 'merge' or tags_lower_five == 'split' or (';' not in final_tags and len(final_tags) > 40):
+    if tags_lower_five == 'merge' or tags_lower_five == 'split' or (';' not in final_tags and len(final_tags) > 50):
         logger.error('%s%s - Invalid final tag!' % (text, final_tags))
         return
     if dataset.add_tags(final_tags.split(';')):
