@@ -33,10 +33,13 @@ def update_tag(dataset, tag, final_tags, wording, remove_existing=True):
     if tags_lower_five == 'merge' or tags_lower_five == 'split' or (';' not in final_tags and len(final_tags) > 50):
         logger.error('%s%s - Invalid final tag!' % (text, final_tags))
         return
+    if remove_existing:
+        dataset.remove_tag(tag)
+    tags = ', '.join(dataset.get_tags())
     if dataset.add_tags(final_tags.split(';')):
-        if remove_existing:
-            dataset.remove_tag(tag)
-    logger.info('%s%s! Dataset tags: %s' % (text, final_tags, ', '.join(dataset.get_tags())))
+        logger.info('%s%s! Dataset tags: %s' % (text, final_tags, tags))
+    else:
+        logger.warning('%s%s - At least one of the tags already exists! Dataset tags: %s' % (text, final_tags, tags))
 
 
 def do_action(tags_dict, dataset, tag, tags_dict_key):
@@ -70,7 +73,7 @@ def main():
             if '*' in tag:
                 wildcard_tags.append(tag)
 
-        for dataset in Dataset.get_all_datasets(check_duplicates=False):
+        for dataset in Dataset.get_all_datasets(check_duplicates=False): # [Dataset.read_from_hdx('uganda-admin-level-6-boundaries-0')]
             changed = False
 
             for tag in dataset.get_tags():
@@ -97,4 +100,4 @@ def main():
 
 
 if __name__ == '__main__':
-    facade(main, hdx_site='test', user_agent_config_yaml=join(expanduser('~'), '.tagcleanupuseragent.yml'), project_config_yaml=join('config', 'project_configuration.yml'))
+    facade(main, hdx_site='demo', user_agent_config_yaml=join(expanduser('~'), '.tagcleanupuseragent.yml'), project_config_yaml=join('config', 'project_configuration.yml'))
