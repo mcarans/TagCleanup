@@ -60,43 +60,54 @@ def do_action(tags_dict, dataset, tag, tags_dict_key):
     return changed
 
 
-def main():
-    """Generate dataset and create it in HDX"""
-    configuration = Configuration.read()
+def update_dataset_tags(dataset, tags_dict, wildcard_tags):
+    changed = False
 
+    for tag in dataset.get_tags():
+        if tag in tags_dict.keys():
+            if do_action(tags_dict, dataset, tag, tag):
+                changed = True
+        else:
+            for wildcard_tag in wildcard_tags:
+                if fnmatch.fnmatch(tag, wildcard_tag):
+                    if do_action(tags_dict, dataset, tag, wildcard_tag):
+                        changed = True
+    return changed
+
+
+def read_tags_spreadsheet(url):
     with Download() as downloader:
-        tags_dict = downloader.download_tabular_rows_as_dicts(configuration['tags_url'], keycolumn=5)
-        tags = tags_dict.keys()
+        tags_dict = downloader.download_tabular_rows_as_dicts(url, keycolumn=5)
 
         wildcard_tags = list()
-        for tag in tags:
+        for tag in tags_dict.keys():
             if '*' in tag:
                 wildcard_tags.append(tag)
 
-        for dataset in Dataset.get_all_datasets(check_duplicates=False): # [Dataset.read_from_hdx('uganda-admin-level-6-boundaries-0')]
-            changed = False
+        return tags_dict, wildcard_tags
 
-            for tag in dataset.get_tags():
-                if tag in tags:
-                    changed = do_action(tags_dict, dataset, tag, tag)
-                else:
-                    for wildcard_tag in wildcard_tags:
-                        if fnmatch.fnmatch(tag, wildcard_tag):
-                            changed = do_action(tags_dict, dataset, tag, wildcard_tag)
 
-            if changed:
-                if dataset.get_tags():
-                    if real_run:
-                        try:
-                            dataset.update_in_hdx(update_resources=False, hxl_update=False)
-                        except HDXError as ex:
-                            logger.exception(ex)
+def main():
+    """Generate dataset and create it in HDX"""
+    configuration = Configuration.read()
+    tags_dict, wildcard_tags = read_tags_spreadsheet(configuration['tags_url'])
+
+    for dataset in [Dataset.read_from_hdx('global-acute-malnutrition-prevalence-of-sahel-countries')]: # Dataset.get_all_datasets(check_duplicates=False):
+        changed = update_dataset_tags(dataset, tags_dict, wildcard_tags)
+
+        if changed:
+            if dataset.get_tags():
+                if real_run:
+                    try:
+                        dataset.update_in_hdx(update_resources=False, hxl_update=False)
+                    except HDXError as ex:
+                        logger.exception(ex)
+            else:
+                if dataset['private']:
+                    privatepublic = 'private'
                 else:
-                    if dataset['private']:
-                        privatepublic = 'private'
-                    else:
-                        privatepublic = 'public'
-                    logger.warning('%s (%s) has no tags!' % (dataset['name'], privatepublic))
+                    privatepublic = 'public'
+                logger.warning('%s (%s) has no tags!' % (dataset['name'], privatepublic))
 
 
 if __name__ == '__main__':
