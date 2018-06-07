@@ -99,6 +99,7 @@ def main():
             if dataset.get_tags():
                 if real_run:
                     try:
+                        logger.info('%s: Updating dataset in HDX' % dataset['name'])
                         dataset.update_in_hdx(update_resources=False, hxl_update=False)
                     except HDXError as ex:
                         logger.exception(ex)
