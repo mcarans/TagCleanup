@@ -92,18 +92,17 @@ def main():
     configuration = Configuration.read()
     tags_dict, wildcard_tags = read_tags_spreadsheet(configuration['tags_url'])
 
-    for dataset in Dataset.get_all_datasets(check_duplicates=False): # [Dataset.read_from_hdx('global-acute-malnutrition-prevalence-of-sahel-countries')]: #
+    for dataset in Dataset.get_all_datasets(check_duplicates=False):  # [Dataset.read_from_hdx('malawi-other')]:
         changed = update_dataset_tags(dataset, tags_dict, wildcard_tags)
 
         if changed:
-            if dataset.get_tags():
-                if real_run:
-                    try:
-                        logger.info('%s: Updating dataset in HDX' % dataset['name'])
-                        dataset.update_in_hdx(update_resources=False, hxl_update=False)
-                    except HDXError as ex:
-                        logger.exception(ex)
-            else:
+            if real_run:
+                try:
+                    logger.info('%s: Updating dataset in HDX' % dataset['name'])
+                    dataset.update_in_hdx(update_resources=False, hxl_update=False)
+                except HDXError as ex:
+                    logger.exception(ex)
+            if not dataset.get_tags():
                 if dataset['private']:
                     privatepublic = 'private'
                 else:
