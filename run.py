@@ -92,7 +92,7 @@ def main():
     configuration = Configuration.read()
     tags_dict, wildcard_tags = read_tags_spreadsheet(configuration['tags_url'])
 
-    for dataset in [Dataset.read_from_hdx('global-acute-malnutrition-prevalence-of-sahel-countries')]: # Dataset.get_all_datasets(check_duplicates=False):
+    for dataset in Dataset.get_all_datasets(check_duplicates=False): # [Dataset.read_from_hdx('global-acute-malnutrition-prevalence-of-sahel-countries')]: #
         changed = update_dataset_tags(dataset, tags_dict, wildcard_tags)
 
         if changed:
